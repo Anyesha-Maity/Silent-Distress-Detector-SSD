@@ -1,6 +1,14 @@
 # Silent-Distress-Detector-SSD
-Silent Distress Detector(SSD)is a hackathon project aimed at identifying unnoticed personal emergencies where individuals cannot seek for help.It focuses on detecting silent distress situations and enabling timely
-alerts,improving safety for vulnerable individuals.
+Silent Distress Detector (SSD) is a hackathon project aimed at identifying unnoticed personal emergencies where individuals cannot seek help. It focuses on detecting silent distress situations and enabling timely alerts, improving safety for vulnerable individuals.
+
+🚨 Silent Distress Detector (SSD)
+
+📌 Project Overview
+
+Silent Distress Detector (SSD) is a hackathon project designed to address unnoticed personal emergencies where individuals are unable to actively seek help. The system focuses on identifying silent distress situations and enabling timely intervention.
+
+❗ Problem Statement
+
 Many individuals such as elderly people living alone, hostel students, night-shift workers, and people with medical or anxiety conditions may face sudden distress situations that go undetected, leading to delayed assistance.
 
 💡 Solution
@@ -62,5 +70,7 @@ Sumedha Chowdhury
 Team Members:
 
 Anyesha Maity
+
 Rumannah Yesmin
+
 Triparna Samanta
